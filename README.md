@@ -1,4 +1,4 @@
-Il progetto si propone di affrontare un task di sentiment analysis utilizzando un modello di Linguaggio di Grandi Dimensioni (LLM), previa una fase di preprocessing dei dati.
+Questo progetto universitario, svolto in gruppo, si propone di affrontare un task di sentiment analysis utilizzando un modello di Linguaggio di Grandi Dimensioni (LLM), previa una fase di preprocessing dei dati.
 
 Per la classificazione, è stato adottato il modello BERT-base-cased, scelto per la sua capacità di mantenere il contesto all'interno dei testi. La classificazione è stata eseguita tramite una rete BiLSTM collegata a una testa di classificazione, che riceve in input il token CLS di ogni tweet da analizzare.
 
